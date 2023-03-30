@@ -20,7 +20,7 @@ body{
     margin: 0 auto;
     border-radius: 28px;
     box-shadow: 2px 2px 10px var(--Grayish-blue);
-    margin-top: 50px;
+    margin-top: 25px;
     flex-direction: column;
     max-width: 500px;
     min-width:381px;
