@@ -23,6 +23,7 @@ body{
     margin-top: 50px;
     flex-direction: column;
     max-width: 500px;
+    min-width:381px;
 }
 .card__img{
     display: block;
